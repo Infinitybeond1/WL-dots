@@ -1,0 +1,169 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <homePath value="/usr/lib/jvm/java-11-openjdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.base" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.datatransfer" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.instrument" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.logging" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.management.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.naming" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.net.http" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.prefs" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.scripting" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.se" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.security.sasl" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.smartcardio" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.sql" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.sql.rowset" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.transaction.xa" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.xml" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/java.xml.crypto" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.accessibility" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.aot" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.attach" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.charsets" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.dynalink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.editpad" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.httpserver" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.internal.le" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jartool" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.javadoc" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jcmd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jconsole" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jdeps" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jdi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jlink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jshell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jsobject" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.jstatd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.localedata" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.management.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.naming.ldap" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.net" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.pack" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.rmic" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.sctp" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.security.auth" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.unsupported" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-11-openjdk!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Elixir at /usr/lib/elixir" />
+      <type value="Elixir SDK" />
+      <version value="Unknown" />
+      <homePath value="/usr/lib/elixir" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/elixir/lib/iex/ebin" type="simple" />
+            <root url="file:///usr/lib/elixir/lib/logger/ebin" type="simple" />
+            <root url="file:///usr/lib/elixir/lib/ex_unit/ebin" type="simple" />
+            <root url="file:///usr/lib/elixir/lib/mix/ebin" type="simple" />
+            <root url="file:///usr/lib/elixir/lib/elixir/ebin" type="simple" />
+            <root url="file:///usr/lib/elixir/lib/eex/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/eldap-1.2.10/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/tftp-1.0.3/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/erl_interface-5.2.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/os_mon-2.7.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/edoc-1.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/megaco-4.3/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/reltool-0.9/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/runtime_tools-1.18/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/tools-3.5.2/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/crypto-5.0.6/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/eunit-2.7/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/ftp-1.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/et-1.6.5/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/compiler-8.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/ssh-4.13.2/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/erts-12.3/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/stdlib-3.17.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/parsetools-2.3.2/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/public_key-1.12/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/xmerl-1.3.28/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/erl_docgen-1.2.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/jinterface-1.12.2/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/kernel-8.3.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/mnesia-4.20.2/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/common_test-1.22.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/diameter-2.2.5/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/sasl-4.1.2/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/observer-2.11/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/wx-2.1.2/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/asn1-5.0.18/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/ssl-10.7.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/debugger-5.2.1/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/snmp-5.12/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/syntax_tools-2.6/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/dialyzer-4.4.4/ebin" type="simple" />
+            <root url="file:///usr/lib/erlang/lib/inets-7.5.2/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://hexdoc.pm/iex" type="simple" />
+            <root url="https://hexdoc.pm/logger" type="simple" />
+            <root url="https://hexdoc.pm/ex_unit" type="simple" />
+            <root url="https://hexdoc.pm/mix" type="simple" />
+            <root url="https://hexdoc.pm/elixir" type="simple" />
+            <root url="https://hexdoc.pm/eex" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional erlang-sdk-name="Erlang for Elixir 24" />
+    </jdk>
+  </component>
+</application>

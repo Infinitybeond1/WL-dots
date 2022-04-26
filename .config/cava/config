@@ -1,0 +1,13 @@
+[color]
+
+foreground = '#7fbbb3'
+
+[general]
+
+bar_width = 4
+
+bar_spacing = 1.5
+
+[output]
+
+channels = stereo

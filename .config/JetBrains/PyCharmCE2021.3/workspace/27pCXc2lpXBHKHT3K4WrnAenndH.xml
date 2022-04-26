@@ -1,0 +1,126 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="py-gnu-utils" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="1" lastUsed="1650007699184" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="py-gnu-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py-gnu-utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="py-gnu-utils-history" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329303" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.329303" />
+      <window_info anchor="bottom" id="Services" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" order="6" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1329" height="203" key="GridCell.Tab.0.bottom" timestamp="1650008088244">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1329" height="203" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1650008088244" />
+    <state width="1329" height="203" key="GridCell.Tab.0.center" timestamp="1650008088241">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1329" height="203" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1650008088241" />
+    <state width="1329" height="203" key="GridCell.Tab.0.left" timestamp="1650008088239">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1329" height="203" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1650008088239" />
+    <state width="1329" height="203" key="GridCell.Tab.0.right" timestamp="1650008088243">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1329" height="203" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1650008088243" />
+    <state x="214" y="-13" key="SettingsEditor" timestamp="1650007807118">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="214" y="-13" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1650007807118" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

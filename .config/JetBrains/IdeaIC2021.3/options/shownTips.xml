@@ -1,0 +1,16 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="Copyright.html" value="1649216623188" />
+        <entry key="DiffChevron.html" value="1649216623531" />
+        <entry key="FixDocComment.html" value="1649216623832" />
+        <entry key="InspectCode.html" value="1649216621511" />
+        <entry key="QuickSwitchScheme.html" value="1649216625388" />
+        <entry key="SecondSmartCompletionChain.html" value="1649216623759" />
+        <entry key="Spellchecker.html" value="1649216625426" />
+        <entry key="jump_to_colors_fonts.html" value="1649216606103" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="28" l="1650007983572" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1650007969257" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1650007965609" />
+    </e>
+    <e n="EditorLeft">
+      <i c="2" l="1650007982682" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1650007942584" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1650007987980" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1650007785521" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1650007644269" />
+    </e>
+  </component>
+</application>

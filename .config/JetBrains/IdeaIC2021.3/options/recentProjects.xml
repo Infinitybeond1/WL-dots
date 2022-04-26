@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – main.rs" projectWorkspaceId="27PL41cFz2ajnb5HuUEodogF5pz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.7172.25" />
+              <option name="buildTimestamp" value="1647533327630" />
+              <frame x="0" y="20" width="1366" height="748" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1649216587345" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ex-tut">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ex-tut – main.ex" opened="true" projectWorkspaceId="27RZRUSOProdEKfWZEm2Nw9CcxU">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.7172.25" />
+              <option name="buildTimestamp" value="1647533287209" />
+              <frame x="0" y="20" width="1366" height="748" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1649284854805" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

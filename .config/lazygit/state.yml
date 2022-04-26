@@ -1,0 +1,10 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/aksharv/.config
+- /home/aksharv/Downloads/infinitywm/infinitywm
+startuppopupversion: 5
+customcommandshistory:
+- w
+- 'wq:'
+- q
+hidecommandlog: false
